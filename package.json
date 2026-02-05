@@ -13,7 +13,7 @@
   "dependencies": {
     "@dojo/cli": "7.0.0-alpha.1",
     "@dojo/cli-build-app": "7.0.0-alpha.7",
-    "@dojo/cli-test-intern": "7.0.0-alpha.6",
+    "@dojo/cli-test-intern": "7.0.0",
     "@dojo/framework": "7.0.0-alpha.7",
     "@dojo/widgets": "file:./dojo-widgets-7.0.1-pre.tgz",
     "tslib": "~1.9.1"
